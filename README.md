@@ -1,6 +1,6 @@
 # Slideshow Animations
 
-A collection of ideas for slideshow animations.
+A collection of ideas for slideshow animations..
 
 ![Slideshow Animations](https://tympanus.net/codrops/wp-content/uploads/2023/09/slideshowanimations-1.jpg)
 
